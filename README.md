@@ -1,4 +1,4 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+This is a copy of Guestbook, amended to include a Profile and a username store. Both are used in App. 
 
 ---
 
